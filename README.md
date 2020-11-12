@@ -1,5 +1,7 @@
 # dl-desafio-tienda32bits
 
+## Alumno: Javier Alejandro Castillo Oñatt
+
 ## Project setup
 ```
 npm install
